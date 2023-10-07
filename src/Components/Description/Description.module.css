@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 40px;
+}
+
+.inputButton{
+    color:grey;
+    background-color: grey;
+    border-radius: 30px;
+}
+
+.button{
+    border-radius: 30px;
+    background-color: orange;
+}

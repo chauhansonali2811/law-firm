@@ -1,0 +1,9 @@
+.container{
+
+    margin-top: 80px;
+}
+
+.cardWrapper{
+    display: flex;
+    justify-content: space-between;
+}
